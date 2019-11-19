@@ -138,12 +138,6 @@
 									"type": "TabularTranslator",
 									"mappings": [
 										{
-											"sink": {
-												"name": "RecordID",
-												"type": "Int32"
-											}
-										},
-										{
 											"source": {
 												"name": "Region",
 												"type": "String"
