@@ -1,0 +1,7 @@
+{
+	"name": "Process Blobs",
+	"properties": {
+		"description": "This pipeline processes all processable blobs from the storage account.",
+		"annotations": []
+	}
+}
