@@ -1,0 +1,10 @@
+{
+	"name": "AzureKVConnection",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://iomegakeyvault.vault.azure.net/"
+		}
+	}
+}
