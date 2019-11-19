@@ -8,6 +8,12 @@
 		"AzureSQLDBConnection_connectionString": {
 			"value": ""
 		},
+		"AzurePreprocessedBlobConnection_connectionString": {
+			"value": ""
+		},
+		"AzureSynapseAnalyticsConnection_connectionString": {
+			"value": ""
+		},
 		"AzureKVConnection_properties_typeProperties_baseUrl": {
 			"value": "https://iomegakeyvault.vault.azure.net/"
 		}
